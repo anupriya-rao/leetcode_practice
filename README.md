@@ -18,5 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anupriya-rao/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anupriya-rao/leetcode_practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/anupriya-rao/leetcode_practice/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/anupriya-rao/leetcode_practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
