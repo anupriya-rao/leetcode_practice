@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anupriya-rao/leetcode_practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anupriya-rao/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupriya-rao/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/anupriya-rao/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupriya-rao/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anupriya-rao/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupriya-rao/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anupriya-rao/leetcode_practice/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anupriya-rao/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
