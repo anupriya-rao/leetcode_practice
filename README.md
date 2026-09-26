@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anupriya-rao/leetcode_practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anupriya-rao/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/anupriya-rao/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anupriya-rao/leetcode_practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anupriya-rao/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anupriya-rao/leetcode_practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Greedy
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anupriya-rao/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anupriya-rao/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
